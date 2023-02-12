@@ -1,5 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lpham0734/images_gif/main/tumblr_98c6cd030aa807275d8ea22ebb59c377_c1804dc1_2048.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lpham0734/images_gif/main/tumblr_98c6cd030aa807275d8ea22ebb59c377_c1804dc1_2048.gif">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/lpham0734/images_gif/main/tumblr_98c6cd030aa807275d8ea22ebb59c377_c1804dc1_2048.gif">
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpham0734&theme=maroongold&show_icons=true)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lpham0734)](https://github.com/lpham0734/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpham0734&layout=compact)](https://github.com/lpham0734/github-readme-stats)

@@ -1,8 +1,5 @@
 
 <picture>
-
-
-
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lpham0734/images_gif/blob/main/retouch_2023082223382001.jpg">
 
 
